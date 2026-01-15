@@ -1,4 +1,4 @@
 print("whatsapp buddy")
 
-print("whatsapp buddy v1")
+print("whatsapp buddy v2")
 
